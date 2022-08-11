@@ -13,6 +13,10 @@ export default defineUserConfig({
         text: '指南',
         link: '/guide',
       },
+      {
+        text: '笔记导入',
+        link: '/import',
+      },
     ],
     sidebar: {
         '/guide/': [
@@ -21,10 +25,10 @@ export default defineUserConfig({
             children: ['/guide/README.md','/guide/getting-started.md'],
           },
         ],
-        '/reference/': [
+        '/import/': [
           {
-            text: 'Reference',
-            children: ['/reference/cli.md', '/reference/config.md'],
+            text: '笔记导入',
+            children: ['/import/README.md', '/import/weread.md'],
           },
         ],
       },
