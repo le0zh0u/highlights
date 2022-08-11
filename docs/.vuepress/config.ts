@@ -13,21 +13,12 @@ export default defineUserConfig({
         text: '指南',
         link: '/guide',
       },
-      {
-        text: 'Foo',
-        link: '/foo/',
-      },
-      // NavbarGroup
-      {
-        text: 'Group',
-        children: ['/group/foo.md', '/group/bar.md'],
-      },
     ],
     sidebar: {
         '/guide/': [
           {
-            text: '使用说明',
-            children: ['/guide/README.md'],//, '/guide/R1.md'
+            text: '指南',
+            children: ['/guide/README.md','/guide/getting-started.md'],
           },
         ],
         '/reference/': [
