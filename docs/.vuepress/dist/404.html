@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.49">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <title>海螺笔记</title><meta name="description" content="海螺笔记的文档站点">
+    <link rel="modulepreload" href="/assets/app.7da989f0.js"><link rel="modulepreload" href="/assets/404.html.3b918a15.js"><link rel="modulepreload" href="/assets/404.html.265028f6.js"><link rel="prefetch" href="/assets/index.html.691b8d43.js"><link rel="prefetch" href="/assets/R1.html.0ec84cb8.js"><link rel="prefetch" href="/assets/R2.html.b81e8c9e.js"><link rel="prefetch" href="/assets/index.html.549c23ea.js"><link rel="prefetch" href="/assets/index.html.9b954d71.js"><link rel="prefetch" href="/assets/R1.html.02b49a18.js"><link rel="prefetch" href="/assets/R2.html.2e5e3ac0.js"><link rel="prefetch" href="/assets/index.html.aeac324f.js"><link rel="prefetch" href="/assets/404.842dd6c9.js"><link rel="prefetch" href="/assets/Layout.5b7f1f18.js">
+    <link rel="stylesheet" href="/assets/style.f4d22aab.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>There&#39;s nothing here.</blockquote><a href="/" class="">Take me home</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.7da989f0.js" defer></script>
+  </body>
+</html>
