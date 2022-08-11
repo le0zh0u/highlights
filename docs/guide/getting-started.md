@@ -1,6 +1,9 @@
-# Guide R1
-asdffas
-dfa
-sdf
-asdfdfa
-sdfasdf
+# 快速上手
+海螺笔记的上手并不复杂，只要在iBooks或者微信阅读中有过笔记，都能一步导入。
+## 笔记导入
+
+## 书本管理
+
+## 标签体系
+
+## 
