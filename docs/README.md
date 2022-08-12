@@ -18,10 +18,10 @@ features:
     details: 参考笔记盒写作法的记录方法论，探索构建笔记关联、思想沉淀的世界
 
 actions:
-  - text: 快速上手
-    link: /guide/getting-started.html
-    type: primary
   - text: 产品介绍
     link: /guide
+    type: primary
+  - text: 快速上手
+    link: /guide/getting-started.html
     type: secondary
 ---
