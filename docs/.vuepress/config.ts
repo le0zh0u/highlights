@@ -22,7 +22,7 @@ export default defineUserConfig({
         '/guide/': [
           {
             text: '指南',
-            children: ['/guide/README.md','/guide/getting-started.md'],
+            children: ['/guide/README.md','/guide/getting-started.md','/guide/book-manage.md','/guide/import-annotation.md','/guide/annotation.md', '/guide/daily-review.md', '/guide/tag-system.md'],
           },
         ],
         '/import/': [

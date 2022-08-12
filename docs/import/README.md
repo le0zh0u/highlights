@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: 从iBooks导入
+title: 从苹果图书导入
 ---
 
 # 苹果图书

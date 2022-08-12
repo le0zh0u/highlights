@@ -19,9 +19,9 @@ features:
 
 actions:
   - text: 快速上手
-    link: /guide/README.html
+    link: /guide/getting-started.html
     type: primary
-#   - text: 项目简介
-#     link: /guide/R1.html
-#     type: secondary
+  - text: 产品介绍
+    link: /guide
+    type: secondary
 ---
