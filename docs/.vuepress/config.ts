@@ -17,6 +17,19 @@ export default defineUserConfig({
         text: '笔记导入',
         link: '/import',
       },
+      {
+        text: '联系我',
+        link: '/general/contact',
+      },
+      {
+        text: '隐私政策',
+        link: '/general/privacy',
+      },
+      {
+        text: '使用条款',
+        link: '/general/terms',
+      },
+      
     ],
     sidebar: {
         '/guide/': [
