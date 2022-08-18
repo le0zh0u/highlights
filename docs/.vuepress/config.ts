@@ -18,6 +18,10 @@ export default defineUserConfig({
         link: '/import',
       },
       {
+        text: '方法论',
+        link: '/methodology',
+      },
+      {
         text: '联系我',
         link: '/general/contact',
       },
@@ -44,6 +48,12 @@ export default defineUserConfig({
             children: ['/import/README.md', '/import/weread.md'],
           },
         ],
+        '/methodology/': [
+            {
+              text: '方法论',
+              children: ['/methodology/README.md', '/methodology/zettelkasten.md', '/methodology/5r.md','/methodology/mindmap.md', '/methodology/jiugongge.md', '/methodology/ria.md'],
+            },
+          ],
       },
   }),
 })
