@@ -43,7 +43,7 @@ jobs:
       - name: Build VuePress site
         run: yarn docs:build
 
-      - name: Create file
+      - name: Create CNAME
         run: |
           echo highlights.ink > docs/.vuepress/dist/CNAME
 
