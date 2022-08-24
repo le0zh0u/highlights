@@ -51,7 +51,7 @@ title: 介绍
 - 终身无广告，无社交，聚焦基于笔记的知识管理。
 
 ## 背后理念
-Niklas Luhmann，德国社会学家，Zettelkasten（卡片笔记写作法）的创造者
+Zettelkasten（卡片笔记写作法），由德国社会学家 Niklas Luhmann实践总结的方法
 
 RIA阅读法
 
