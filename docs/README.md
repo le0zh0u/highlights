@@ -5,7 +5,7 @@ tagline: 笔记与思考似海螺与大海，透过海螺，聆听大海
 # 的声音
 features:
   - title: 笔记聚合
-    details: 可以从iBooks、微信读书导出高亮、笔记。多端功能隔离，手机中碎片回味，电脑上沉思整理。
+    details: 可以从iBooks、微信读书导出高亮、笔记。
   - title: 每日回顾
     details: 于一日闲暇之余，拾笔记几条，细细品读，曰：一午一拾。
   - title: 样式同频
