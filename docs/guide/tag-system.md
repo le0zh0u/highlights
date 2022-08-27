@@ -3,7 +3,7 @@
 
 海螺笔记的标签系统参考 flomo的标签系统，支持层级，并能自动删除没有笔记的标签。
 
-![](http://img.leozhou.me/picGo/20220812160532.png)
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220827225540.png)
 
 ## 如何新建标签
 编辑高亮笔记，在弹框的最下方有`#`按钮，直接输入标签名称后即可创建标签。
