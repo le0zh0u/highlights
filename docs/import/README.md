@@ -11,7 +11,7 @@ title: 从苹果图书导入
 
 在第一次点击后，后续的同步导入，不需要再重复选择了。
 
-![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220827225705.png)
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220827230348.png)
 
 ## 配置
 
@@ -31,7 +31,7 @@ title: 从苹果图书导入
 
 在书本详情页的右上角，点击`...`「更多」按钮，选择「章节」，选择「生成章节」。
 
-![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220827225432.png)
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220827230247.png)
 
 在输入框中，按照👆的样式，将对应的书本章节目录结构化地输入进来。
 
