@@ -12,6 +12,8 @@ title: 介绍
 1. 输出：尝试优化输出方式，比如导出到第三方知识管理平台
 2. 整理：结合应用场景提炼Action
 3. 内化：结合卡片笔记法和RIA阅读法提炼内化方法，比如5R、RIA、九宫格等等
+    - 闪念卡片盒： DOING
+    ![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220827224827.png)
 
 ## 产品来源 
 
