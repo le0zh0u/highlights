@@ -26,18 +26,27 @@ export default defineUserConfig({
         link: '/question',
       },
       {
+        text: '所思所想',
+        link: '/thoughts',
+      },
+      {
         text: '联系我',
         link: '/general/contact',
       },
       {
-        text: '隐私政策',
-        link: '/general/privacy',
+        text: '更多',
+        children: [{
+          text: '使用条款',
+          link: '/general/terms',
+          activeMatch: '/general/terms',
+        }, {
+          text: '隐私政策',
+          link: '/general/privacy',
+          // 该元素在当前路由路径是 /foo/ 开头时激活
+          // 支持正则表达式
+          activeMatch: '/general/privacy',
+        },],
       },
-      {
-        text: '使用条款',
-        link: '/general/terms',
-      },
-      
     ],
     sidebar: {
         '/guide/': [
