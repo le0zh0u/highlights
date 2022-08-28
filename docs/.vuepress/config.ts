@@ -22,6 +22,10 @@ export default defineUserConfig({
         link: '/methodology',
       },
       {
+        text: '常见问题',
+        link: '/question',
+      },
+      {
         text: '联系我',
         link: '/general/contact',
       },
