@@ -53,27 +53,41 @@ PS：因能力问题，未能实现微信读书中波浪线的展示，但是颜
 
 直接在第三方阅读器中跳转到笔记的位置。
 
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220828113747.png)
+
 当前只支持苹果图书的笔记。
 
 **章节要点**
 
 关联章节要点，方便后续结构化输出
 
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220828114030.png)
+
 **删除**
 
 删除笔记，会在下一次同步后重新导入
+
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220828114112.png)
 
 **编辑**
 
 编辑后，高亮单元中会出现`M`标记，代表当前高亮笔记已经被编辑。并且意味着在第三方软件中的调整不会被同步进来。
 
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220828114135.png)
+
 **隐藏** / **重置回可见**
+
 调整笔记的状态。
+
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220828114155.png)
 
 如果设置成「隐藏」，之后的同步不会更新笔记。
 
 **拷贝**
+
 将高亮的部分拷贝到剪切板，方便分享
+
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220828114222.png)
 
 ## 如何编辑笔记
 高亮笔记右下角的编辑按钮，如果有更多按钮，则被收拢到了更多菜单栏中（点击更多按钮即可看到）。
