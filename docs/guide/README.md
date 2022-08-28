@@ -15,6 +15,11 @@ title: 介绍
     - 闪念卡片盒： DOING
     ![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220827224827.png)
 
+## 安装
+支持MacOS和iOS多平台
+
+[![Download on the Mac App Store](https://highlights.ink/images/download/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/cn/app/id1638167076)
+
 ## 产品来源 
 
 在这段时间阅读了几本书之后，某天发现无法回忆起重要的片段（不排除读书专注度等问题），自己的脑海中提取不到相关的内容，只能看着书名发呆。这才意识到自己阅读方式存在很大的问题。
