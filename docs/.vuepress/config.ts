@@ -62,11 +62,17 @@ export default defineUserConfig({
           },
         ],
         '/methodology/': [
-            {
-              text: '方法论',
-              children: ['/methodology/README.md', '/methodology/zettelkasten.md', '/methodology/5r.md','/methodology/mindmap.md', '/methodology/jiugongge.md', '/methodology/ria.md'],
-            },
-          ],
+          {
+            text: '方法论',
+            children: ['/methodology/README.md', '/methodology/zettelkasten.md', '/methodology/5r.md','/methodology/mindmap.md', '/methodology/jiugongge.md', '/methodology/ria.md'],
+          },
+        ],
+        '/thoughts/': [
+          {
+            text: '',
+            children: ['/thoughts/README.md'],
+          },
+        ],
       },
   }),
 })
