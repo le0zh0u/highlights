@@ -18,6 +18,8 @@
 ## 安装
 支持MacOS和iOS多平台
 
+[![Download on the Mac App Store](https://highlights.ink/images/download/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/cn/app/id1638167076)
+
 ## 使用方法
 详细的使用方法请查看此文档 👉🏻 [快速上手](http://highlights.ink)
 
