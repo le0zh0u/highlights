@@ -36,6 +36,10 @@ export default defineUserConfig({
       {
         text: '更多',
         children: [{
+          text: '更新记录',
+          link: '/general/changeLog',
+          activeMatch: '/general/changeLog',
+        }, {
           text: '使用条款',
           link: '/general/terms',
           activeMatch: '/general/terms',
