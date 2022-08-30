@@ -26,3 +26,6 @@ title: 从微信读书导入
 因为微信读书的数据是通过页面api的方式获取到数据的。其中涉及到登录的问题。微信读书的登录状态会随着时间、其他设备登录等原因自动过期，所以支持了登录状态自动刷新的功能。
 
 在完成第一次扫码登录后，理论上后续的同步动作中碰到登录过期的情况都会自动刷新一下状态，然后再进行重试即可。
+
+### 自动刷新功能参考
+[zhaohongxuan/obsidian-weread-plugin: Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.](https://github.com/zhaohongxuan/obsidian-weread-plugin)
