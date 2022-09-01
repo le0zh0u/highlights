@@ -7,3 +7,10 @@
 ## 继续联系我
 
 可以发送邮件给我 [hi@leozhou.me](mailto:hi@leozhou.me)
+
+## 继续联系我
+
+拿出手机扫一扫
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220901171801.png)
+
+如果图片没有加载出来，请访问[【腾讯文档】海螺笔记 - 联系我](https://docs.qq.com/doc/DUm9RaXRqbURUUVFx)
