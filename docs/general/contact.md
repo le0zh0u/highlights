@@ -13,4 +13,4 @@
 拿出手机扫一扫
 ![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220901171801.png)
 
-如果图片没有加载出来，请访问[【腾讯文档】海螺笔记 - 联系我](https://docs.qq.com/doc/DUm9RaXRqbURUUVFx)
+如果图片没有加载出来，请访问[【腾讯文档】海螺笔记 - 加入社区](https://docs.qq.com/doc/DUm9RaXRqbURUUVFx)
