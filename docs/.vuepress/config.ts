@@ -62,7 +62,7 @@ export default defineUserConfig({
         '/import/': [
           {
             text: '笔记导入',
-            children: ['/import/README.md', '/import/weread.md'],
+            children: ['/import/README.md', '/import/weread.md','/import/kindle.md','/import/google-book.md'],
           },
         ],
         '/methodology/': [
