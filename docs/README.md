@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/logo-corner.png
-tagline: 笔记与思考似海螺与大海，透过海螺，聆听大海
+tagline: 笔记与智慧似海螺与大海，透过海螺，聆听大海
 # 的声音
 features:
   - title: 笔记聚合
