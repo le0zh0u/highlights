@@ -30,6 +30,7 @@ actions:
   - text: 快速上手
     link: /guide/getting-started.html
     type: secondary
+footer: Copyright © 2022-Present Leozhou
 ---
 
 
@@ -55,7 +56,7 @@ actions:
 - 有说不能划线记录原文的
 - 有说一定要自己话总结的
 
-等等，最终对我感触比较深的是《卡片笔记写作法》和Flomo。
+寻找的结果非常多，最终对我感触比较深的是《卡片笔记写作法》和Flomo。
 
 然后开始寻找上手的工具。
 - 很多应用是**为了读纸质书**而存在，记录读书时间，拍照记录划线内容，手动记录读书页数等等；
