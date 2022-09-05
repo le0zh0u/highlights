@@ -1,5 +1,11 @@
 # 联系我
 
+## 公测版本
+
+不定时会上传需要公测的版本，需要事先下载TestFlight。
+提供一个公开链接：https://testflight.apple.com/join/AXkKGqQH
+按需自行下载体验，如果有问题随时联系我。
+
 ## 问题反馈
 
 应用已经分别上架iOS和MacOS的App Store，如果有使用上的问题或者建议**请优先在 GitHub 提 issue**，👉 点击此处跳转 [GitHub issue](https://github.com/le0zh0u/highlights/issues)。
