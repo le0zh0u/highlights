@@ -10,7 +10,10 @@
 
 ## 继续联系我
 
-拿出手机扫一扫
+拿出手机扫一扫，加个QQ好友，等后续开放交流群，再同步出来
 ![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20220902211132.png)
+
+也可以通过[飞书与我联系]( https://www.feishu.cn/invitation/page/add_contact/?token=e1cj9ca4-7936-48af-be74-c0830d6b9d60&amp;unique_id=3hu3Cj41IYkcQFhge8Tpyg==)
+
 
 如果图片没有加载出来，请访问[【腾讯文档】海螺笔记 - 加入社区](https://docs.qq.com/doc/DUm9RaXRqbURUUVFx)
