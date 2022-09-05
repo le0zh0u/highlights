@@ -74,7 +74,7 @@ export default defineUserConfig({
         '/thoughts/': [
           {
             text: '',
-            children: ['/thoughts/README.md'],
+            children: ['/thoughts/README.md', '/thoughts/temporary-collection-box.md'],
           },
         ],
       },
