@@ -1,4 +1,4 @@
 node_modules
 .temp
 .cache
-.package-log.json
+.package-lock.json
