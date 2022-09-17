@@ -87,3 +87,4 @@ footer: Copyright © 2022-Present Leozhou
 
 应用已经分别上架iOS和MacOS的App Store，如果有使用上的问题或者建议**请优先在 GitHub 提 issue**，👉 点击此处跳转 [GitHub issue](https://github.com/le0zh0u/highlights/issues)。
 
+其他联系方式可以去[联系我](/general/contact.html)查看
