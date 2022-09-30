@@ -2,7 +2,7 @@
 <div align=center><img width="300x300" height="300x300" src="http://img.leozhou.me/picGo/1024-1.png"/></div>
 
 # 海螺笔记 - Highlights
-海螺笔记是一款笔记管理工具，支持苹果图书、微信读书灯众多阅读器数据导入。
+海螺笔记是一款笔记管理工具，支持苹果图书、微信读书等众多阅读器数据导入。
 
 ## 产品来源 
 
