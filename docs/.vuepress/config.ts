@@ -53,25 +53,25 @@ export default defineUserConfig({
       },
     ],
     sidebar: {
-        '/guide/': [
+        '/guide': [
           {
             text: '指南',
             children: ['/guide/README.md','/guide/getting-started.md','/guide/book-manage.md','/guide/import-annotation.md','/guide/annotation.md', '/guide/daily-review.md', '/guide/tag-system.md','/guide/sync-data.md','/guide/extensions.md','/guide/export.md'],
           },
         ],
-        '/import/': [
+        '/import': [
           {
             text: '笔记导入',
             children: ['/import/README.md', '/import/weread.md','/import/kindle.md','/import/google-book.md'],
           },
         ],
-        '/methodology/': [
+        '/methodology': [
           {
             text: '方法论',
             children: ['/methodology/README.md', '/methodology/zettelkasten.md', '/methodology/5r.md','/methodology/mindmap.md', '/methodology/jiugongge.md', '/methodology/ria.md'],
           },
         ],
-        '/thoughts/': [
+        '/thoughts': [
           {
             text: '',
             children: ['/thoughts/README.md', '/thoughts/temporary-collection-box.md'],

@@ -22,7 +22,12 @@
 
 ## 桌面端
 
-### 版本 1.1.11
+### 版本 1.1.12 <Badge type="tip" text="2022/10/20" vertical="middle" />
+1. 添加导出特殊字符自动转义配置
+2. 修复导出内容包含转义字符问题
+3. 代码优化
+
+### 版本 1.1.11 <Badge type="tip" text="2022/10/18" vertical="middle" />
 1. 导出markdown支持包含闪念笔记
 2. 优化markdown导出针对ibooks没有章节时保留章节信息导出
 3. 隐藏高亮笔记的位置信息
