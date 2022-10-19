@@ -18,9 +18,30 @@
 
 ### 导出Markdown
 
-**导出Markdown中包含章节**
+**包含章节**
 
 在导出Markdown内容时，
 
 - 如果打开，意味着会以章节为二级标题进行导出。
-- 如果打开，意味着会只导出所有划线的笔记文本。
+- 如果关闭，意味着会只导出划线文本内容。
+
+**包含闪念笔记**
+
+在导出Markdown内容时，是否需要将每条Highlights对应的闪念笔记导出到文本中。
+
+
+**转义特殊字符**
+
+在导出Markdown内容时，如果包含以下特殊字符，会在该字符前加上转义符`\`，尽量确保导出的markdown文件在Obsidian等管理软件中不会出现异常。
+
+``` swift
+case slash = "/"
+case asterisk = "*"
+case underline = "_"
+case numberSign = "#"
+case exclamationMark = "!"
+case lessThanSign = "<"
+case greaterThanSign = ">"
+case squareBracketsOpen = "["
+case squareBracketsClose = "]"
+```
