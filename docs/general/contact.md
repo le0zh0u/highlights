@@ -4,7 +4,7 @@
 
 不定时会上传需要公测的版本，需要事先下载TestFlight。
 
-提供一个公开链接：https://testflight.apple.com/join/AXkKGqQH
+提供一个公开链接：[https://testflight.apple.com/join/AXkKGqQH](https://testflight.apple.com/join/AXkKGqQH)
 
 按需自行下载体验，如果有问题随时联系我。
 
