@@ -25,7 +25,7 @@
 - 标签
 - 直接跳转到阅读器地址
 
-![](http://img.leozhou.xyz/picGo/20221020110633.png)
+![](https://raw.githubusercontent.com/le0zh0u/ImageSpace/main/picgo/20221020175653.png)
 
 ### 导出Markdown
 
