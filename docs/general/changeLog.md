@@ -1,12 +1,12 @@
 # 变更记录
 
-## 桌面端
+## MacOS
 
-### 版本 1.1.13 <Badge type="warning" text="2022/10/20" vertical="middle" /> <Badge type="danger" text="公测" vertical="middle" />
-1. 自定义导出内容块可视化配置页面
+### 版本 1.1.13 <Badge type="warning" text="2022/10/21" vertical="middle" /> <Badge type="danger" text="公测" vertical="middle" />
+1. 可视化配置自定义导出内容块
 2. 优化导出内容逻辑，支持标签、跳转地址等导出
 
-### 版本 1.1.12 <Badge type="warning" text="2022/10/20" vertical="middle" />
+### 版本 1.1.12 <Badge type="tip" text="2022/10/20" vertical="middle" />
 1. 添加导出特殊字符自动转义配置
 2. 修复导出内容包含转义字符问题
 3. 代码优化
