@@ -5,6 +5,7 @@
 ### 版本 1.1.14 <Badge type="tip" text="DEV" vertical="middle" />
 1. 支持epub的toc文件导入解析章节
 2. 优化导出块内容配置界面
+3. 标签优化 && 书本标签
 
 ### 版本 1.1.13 <Badge type="warning" text="2022/10/21" vertical="middle" /> <Badge type="danger" text="公测" vertical="middle" />
 1. 可视化配置自定义导出内容块
