@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-58f782bc","path":"/methodology/zettelkasten.html","title":"\u7B14\u8BB0\u76D2\u5199\u4F5C\u6CD5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660812443000,"contributors":[{"name":"leozhou","email":"492753662@qq.com","commits":1}]},"filePathRelative":"methodology/zettelkasten.md"}');export{t as data};

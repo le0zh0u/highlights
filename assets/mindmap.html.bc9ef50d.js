@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-08a4ff74","path":"/methodology/mindmap.html","title":"\u601D\u7EF4\u5BFC\u56FE\u7B14\u8BB0\u6CD5","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660812443000,"contributors":[{"name":"leozhou","email":"492753662@qq.com","commits":1}]},"filePathRelative":"methodology/mindmap.md"}');export{t as data};
